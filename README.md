@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ashutoshnayakORDS
 - 👀 I’m interested in interdisciplinary research, mostly around Operations research, Data Science and applications of machine learning models.
 - 🌱 I’m currently working as a data scientist in Samsung research institure Bangalore
-- 📫 How to reach me at ashutoshnayakkgp@gmail.com
+- 📫 How to reach me at ashutoshnayakkgp@gmail.com or ashnayak@icloud.com
